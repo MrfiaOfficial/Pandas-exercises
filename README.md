@@ -27,4 +27,4 @@ Day 8 of x of Pandas: started merging exercise [Auto MPG](https://github.com/Cin
 Day 9 of x of Pandas: attempted [Fictitious Names](https://github.com/CinnamonXI/Pandas-exercises/tree/main/05%20-%20merge/02%20-%20Fictitous%20Names).
 
 
-stopped updating the readme because i have some engagements at the moment.
+
